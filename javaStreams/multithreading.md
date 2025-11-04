@@ -1,0 +1,22 @@
+
+![[Pasted image 20251020131831.png]]
+![[Pasted image 20251020131846.png]]
+![[Pasted image 20251020131926.png]]
+![[Pasted image 20251020131908.png]] 
+process, thread, core ,os
+![[Pasted image 20251020132014.png]]![[Pasted image 20251020132032.png]]
+![[Pasted image 20251020132056.png]]![[Pasted image 20251020132115.png]]
+![[Pasted image 20251020132136.png]]![[Pasted image 20251020132312.png]]
+![[Pasted image 20251020132328.png]]
+![[Pasted image 20251020132349.png]]
+![[Pasted image 20251020132613.png]]![[Pasted image 20251020132631.png]]
+![[Pasted image 20251020132648.png]]
+![[Pasted image 20251020132710.png]]
+
+![[Pasted image 20251020132724.png]]
+![[Pasted image 20251020132742.png]]
+![[Pasted image 20251020132757.png]]
+![[Pasted image 20251020132814.png]]![[Pasted image 20251020132831.png]]
+![[Pasted image 20251020132851.png]]![[Pasted image 20251020132902.png]]![[Pasted image 20251020132929.png]]
+![[Pasted image 20251020132942.png]]![[Pasted image 20251020133000.png]]
+![[Pasted image 20251020133013.png]]![[Pasted image 20251020133028.png]]![[Pasted image 20251020133042.png]]
