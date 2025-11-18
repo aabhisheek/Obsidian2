@@ -247,13 +247,13 @@ This means:
 
 ## 💡 10. Real-World Benefits
 
-|Advantage|Description|
-|---|---|
-|**Readable Code**|No need to declare loggers manually|
-|**Consistency**|Same logger naming pattern across project|
-|**Flexibility**|Change logging backend without touching code|
-|**Performance**|Parameterized logging avoids unnecessary object creation|
-|**Debuggability**|Helps track flow, exceptions, and business activity|
+| Advantage         | Description                                              |
+| ----------------- | -------------------------------------------------------- |
+| **Readable Code** | No need to declare loggers manually                      |
+| **Consistency**   | Same logger naming pattern across project                |
+| **Flexibility**   | Change logging backend without touching code             |
+| **Performance**   | Parameterized logging avoids unnecessary object creation |
+| **Debuggability** | Helps track flow, exceptions, and business activity      |
 
 ---
 

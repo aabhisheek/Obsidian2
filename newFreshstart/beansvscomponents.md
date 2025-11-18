@@ -2,7 +2,7 @@
 
 
 
-component is added on class level whereAs bean is added on method level.
+component is added on class level where As bean is added on method level.
 
 component makes a class as a bean which makes it available for componentScanning 
 inside your Application

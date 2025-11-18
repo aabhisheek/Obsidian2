@@ -199,7 +199,7 @@ for example in manager2, there are two entries for project id 4 and 3.
 
 now lets look at    computeAllocation,buildAllocation  and applyToAllocationOverrides functionality 
 
-==compute allocation== checks for the current user allocations in diiferent projects ,only if 8-allAllocations >=current requiredAllocationHours 
+==compute allocation== checks for the current user allocations in different projects ,only if 8-allAllocations >=current requiredAllocationHours 
 else throws error
 "No sufficient hours to allocate - Only " + (MAX_HOURS - maxAvailHours) + " hours can be allocated");
 

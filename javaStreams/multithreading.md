@@ -4,6 +4,7 @@
 ![[Pasted image 20251020131926.png]]
 ![[Pasted image 20251020131908.png]] 
 process, thread, core ,os
+
 ![[Pasted image 20251020132014.png]]![[Pasted image 20251020132032.png]]
 ![[Pasted image 20251020132056.png]]![[Pasted image 20251020132115.png]]
 ![[Pasted image 20251020132136.png]]![[Pasted image 20251020132312.png]]

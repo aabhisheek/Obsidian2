@@ -5,7 +5,7 @@
 
 ```
 Array.asList is a List type which have fixed size , like array 
-so when you write List<T> , its actually a ArrayList.
+so when you write List<T> ,  ArrayList  is a different thing which is resizable.
 ```
 
 ---

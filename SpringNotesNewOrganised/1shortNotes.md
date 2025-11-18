@@ -2,7 +2,7 @@
 we have used  set<Allocations> and not Allocations because 
 one to many so it expects more than one allocations not allocation 
 
-so a array or collection framework i sexpected otherwise runtime error also may be thrown.
+so a array or collection framework i expected otherwise runtime error also may be thrown.
 .
 
 

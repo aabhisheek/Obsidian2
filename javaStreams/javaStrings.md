@@ -203,6 +203,107 @@ After `intern()` → both can point to the same SCP reference.
 
 ---
 
+what if i put two times 
+
+Excellent question — this dives deep into **Java’s String memory model**, involving both the **heap** and the **String Constant Pool (SCP)**. Let’s break it down clearly 👇
+
+---
+
+### 🧩 Code in question:
+
+```java
+String s1 = new String("Java Rocks!");
+String s2 = new String("Java Rocks!");
+```
+
+---
+
+### 🔍 Step-by-step explanation:
+
+#### **1. `"Java Rocks!"` literal**
+
+When the class containing this code is **loaded by the JVM**,  
+the literal `"Java Rocks!"` is placed in the **String Constant Pool (SCP)** (also called the **intern pool**).  
+✅ So, **one** `"Java Rocks!"` object exists in the SCP.
+
+---
+
+#### **2. `new String("Java Rocks!")`**
+
+Now, when you write:
+
+```java
+String s1 = new String("Java Rocks!");
+```
+
+Here’s what happens internally:
+
+- JVM **checks** SCP and finds `"Java Rocks!"` already there (created during class loading).
+    
+- It **uses that SCP string** as a constructor argument to `new String(...)`.
+    
+- The `new` keyword **always** creates a **new object in the heap**, even if the same content exists elsewhere.  
+    So, a **new heap String object** is created with the same characters `"Java Rocks!"`.
+    
+
+Thus, after the first line:
+
+- One `"Java Rocks!"` in the **SCP**
+    
+- One `"Java Rocks!"` in the **heap** (created by `new String()`)
+    
+
+---
+
+#### **3. The second line**
+
+```java
+String s2 = new String("Java Rocks!");
+```
+
+- The literal `"Java Rocks!"` is **already in SCP**, so **no new SCP object** is created.
+    
+- But again, because of `new String(...)`, another **new object in the heap** is created with the same value.
+    
+
+So after both lines:
+
+- **SCP:** 1 object → `"Java Rocks!"`
+    
+- **Heap:** 2 distinct objects (for `s1` and `s2`)
+    
+
+---
+
+### ✅ Final Summary
+
+|Reference|Expression|Memory location|Notes|
+|---|---|---|---|
+|`s1`|`new String("Java Rocks!")`|Heap (new object)|SCP literal used as constructor arg|
+|`s2`|`new String("Java Rocks!")`|Heap (new object)|SCP literal reused, new heap obj created|
+|SCP|`"Java Rocks!"`|String Constant Pool|Created once at class load|
+
+So, yes — **two different objects in heap** are created, but **only one copy** of `"Java Rocks!"` exists in the SCP.
+
+---
+
+### 💡 Bonus tip:
+
+If you wanted both `s1` and `s2` to point to the same SCP object, you’d call `.intern()`:
+
+```java
+String s1 = new String("Java Rocks!").intern();
+String s2 = new String("Java Rocks!").intern();
+```
+
+Now both `s1 == s2` → `true`, since both refer to the same SCP string.
+
+---
+
+Would you like me to illustrate this visually with a **heap + SCP memory diagram**? It makes it super clear.
+
+
+
 Would you like me to show a short Java code snippet demonstrating how `.intern()` changes the reference comparison (`==`)?
 ---
 

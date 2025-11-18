@@ -6,6 +6,7 @@
       {
         "id": "3a2a6b293ef05b71",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "f7cfcadad2feb559",
@@ -13,26 +14,602 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaStreams/javastreamsBlogs.md",
+                "file": "projectStructure/userOnboardingNetworking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "javastreamsBlogs"
+              "title": "userOnboardingNetworking"
+            }
+          },
+          {
+            "id": "684f13c03960b3b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "67c49c912c362c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Webtrak-Ui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Webtrak-Ui"
+            }
+          },
+          {
+            "id": "62afc78cfc223a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Webtrak-Ui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Webtrak-Ui"
+            }
+          },
+          {
+            "id": "6df51a4e2a06d089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/webtrackuizod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "webtrackuizod"
+            }
+          },
+          {
+            "id": "2b2e722933d47d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Reactconcepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactconcepts"
+            }
+          },
+          {
+            "id": "3db640db1a183538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Reactconcepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactconcepts"
+            }
+          },
+          {
+            "id": "a68584cd752629a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/webtrackuizod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "webtrackuizod"
+            }
+          },
+          {
+            "id": "00737b731c2888b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/creatingcomp_off.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "creatingcomp_off"
+            }
+          },
+          {
+            "id": "160adaa10271a4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9165c81db8320b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "22d4b84fbff6f17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typeScript/topicsTOstudyinTypeScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "topicsTOstudyinTypeScript"
+            }
+          },
+          {
+            "id": "b3baebabfb822143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/webtrackuizod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "webtrackuizod"
+            }
+          },
+          {
+            "id": "ac5d2ad6a3a76363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/hobbiesPb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hobbiesPb"
+            }
+          },
+          {
+            "id": "770f541b06382b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshstart/@Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@Data"
+            }
+          },
+          {
+            "id": "051b1fa0aaa1e9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Reactconcepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactconcepts"
+            }
+          },
+          {
+            "id": "a62efe8710c8b798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaStreams/predicatechaining.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "predicatechaining"
+            }
+          },
+          {
+            "id": "8c329625c347be14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaStreams/multithreading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "multithreading"
+            }
+          },
+          {
+            "id": "f494852382632b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaStreams/MethodReferenceSyntaxConvention.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MethodReferenceSyntaxConvention"
+            }
+          },
+          {
+            "id": "61fd2ddbde1a46e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/explaininguseDynamicFieldArray.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "explaininguseDynamicFieldArray"
+            }
+          },
+          {
+            "id": "35257dba3d4afddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/ReactuseContext Hook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReactuseContext Hook"
+            }
+          },
+          {
+            "id": "fa25f99daa713cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/userOnboardingNetworking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "userOnboardingNetworking"
+            }
+          },
+          {
+            "id": "812c31ca10840dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Reactquery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactquery"
+            }
+          },
+          {
+            "id": "2eac145f72cfc48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Reactquery2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reactquery2"
+            }
+          },
+          {
+            "id": "23338fd3ce523c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "700c99e64b13056b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/testingCronjobsCorrectly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testingCronjobsCorrectly"
+            }
+          },
+          {
+            "id": "4107be78e6c71c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/testingleavecronnotworking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testingleavecronnotworking"
+            }
+          },
+          {
+            "id": "35295059506a19d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "075b8cd68417b03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringResources/interviewchatgpt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interviewchatgpt"
             }
           },
           {
             "id": "5de55afd0fe83922",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/testingleavecronnotworking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testingleavecronnotworking"
+            }
+          },
+          {
+            "id": "04ca77076692a2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshstart/1 port settingSpringBoot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 port settingSpringBoot"
+            }
+          },
+          {
+            "id": "80c3e6c3af580739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshstart/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "782c5c299fac3deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projectStructure/assetManagement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "assetManagement"
+            }
+          },
+          {
+            "id": "b62cbe6774716c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshStart2/1DatabaseManytoOneEntitiesShowing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1DatabaseManytoOneEntitiesShowing"
+            }
+          },
+          {
+            "id": "450e9279159bb8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React2/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "1fa1d1486568fa27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React2/2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2"
+            }
+          },
+          {
+            "id": "535af5d2ed20a70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshStart2/2AssetMapperinService.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2AssetMapperinService"
+            }
+          },
+          {
+            "id": "2b30b3c6301a48df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshStart2/3ZodSchema(pick,extend,refine).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3ZodSchema(pick,extend,refine)"
+            }
+          },
+          {
+            "id": "9a418fa68827b8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshStart2/4ZodSchema2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4ZodSchema2"
+            }
+          },
+          {
+            "id": "dd2bc5c53d21dc79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringResources/interviewchatgpt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interviewchatgpt"
+            }
+          },
+          {
+            "id": "62630e5d373c6fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newFreshStart2/4ZodSchema2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4ZodSchema2"
+            }
+          },
+          {
+            "id": "85071522623333e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringResources/springbootcampWebknot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "springbootcampWebknot"
+            }
+          },
+          {
+            "id": "59eaf93f4ab230b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringResources/cronjobs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cronjobs"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -67,7 +644,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -197,7 +774,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,53 +791,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5de55afd0fe83922",
+  "active": "59eaf93f4ab230b5",
   "lastOpenFiles": [
-    "javaStreams/JavaStreamsselfentry.md",
-    "javaStreams/javastreamsBlogs.md",
-    "javaStreams/multithreading.md",
-    "javaStreams/resources.md",
-    "javaStreams/predicatechaining.md",
-    "javaStreams/functionalinterface.md",
-    "javaStreams/lambda function.md",
-    "springSecurity/1.md",
-    "springSecurity/builderFunctionSpringBoot.md",
-    "springSecurity/builderFunction.md",
-    "springSecurity/springsecurity.md",
-    "projectStructure/listmaangervsStringmanager.md",
-    "projectStructure/leaveRequestLossofPayShow.md",
-    "springSecurity/anujyoutubespringsecurity.md",
-    "springSecurity/Pasted image 20251103163325.png",
-    "projectStructure/entitysql.md",
-    "projectStructure/onBoardingEndpoint.md",
-    "projectStructure/GetuserRequestdecoded.md",
-    "projectStructure/sql query for roles.md",
-    "projectStructure/tableRelationsExplaining.md",
-    "projectStructure/createuserRequestManagerComp_Off2.md",
-    "projectStructure/createuserRequestManagerComp_Off1.md",
-    "projectStructure/Global Project Assignment.md",
-    "projectStructure/creatingcomp_off.md",
-    "SpringNotesNewOrganised/1.md",
-    "Pasted image 20251103055115.png",
-    "Pasted image 20251103055109.png",
-    "Pasted image 20251103055103.png",
+    "projectStructure/assetManagement.md",
+    "SpringResources/cronjobs.md",
+    "SpringResources/springbootcampWebknot.md",
+    "SpringNotesNewOrganised/revisionGuideLine.md",
+    "nextjsFolderStructure/1.md",
+    "kafkaIntegrationwithspringBootproject/1.md",
+    "kafkaIntegrationwithspringBootproject/Pasted image 20251117170337.png",
+    "kafkaIntegrationwithspringBootproject/Pasted image 20251117165627.png",
+    "kafkaIntegrationwithspringBootproject",
+    "SpringResources/Pasted image 20251117114750.png",
+    "SpringResources/Pasted image 20251117114708.png",
+    "SpringResources/interviewchatgpt.md",
+    "SpringNotesNewOrganised/1shortNotes.md",
+    "newFreshStart2/springbo.md",
+    "newFreshstart/beansvscomponents.md",
+    "newFreshstart/Cascading.md",
+    "newFreshstart/error resolving.md",
     "newFreshstart/transactionAnnotationSpringBoot.md",
-    "projectStructure/allocationTypesExplained.md",
-    "Pasted image 20251102161242.png",
-    "Pasted image 20251102161012.png",
-    "Pasted image 20251102155835.png",
-    "Pasted image 20251102125904.png",
-    "Pasted image 20251102125749.png",
-    "Pasted image 20251102124953.png",
+    "newFreshstart/6.md",
+    "newFreshstart/5.md",
+    "newFreshstart/4.md",
+    "newFreshstart/3 SpringBoot.md",
+    "newFreshstart/1 port settingSpringBoot.md",
+    "newFreshstart/springboot script to create folderDocuments.md",
+    "newFreshStart2/1DatabaseManytoOneEntitiesShowing.md",
+    "newFreshStart2/2AssetMapperinService.md",
+    "newFreshStart2/3ZodSchema(pick,extend,refine).md",
+    "postgres/2.md",
+    "postgres/1.md",
+    "nextjsFolderStructure/Pasted image 20251116125908.png",
+    "nextjsFolderStructure/Pasted image 20251116125600.png",
+    "nextjsFolderStructure/Pasted image 20251116125530.png",
+    "newFreshStart2/1.md",
+    "newFreshStart2/4ZodSchema2.md",
+    "nextjsFolderStructure",
+    "ProjectStructureWebtrak-ui",
+    "React2",
+    "newFreshStart2/Pasted image 20251114042356.png",
+    "newFreshStart2/Pasted image 20251114033416.png",
+    "newFreshStart2",
+    "projectStructure/Pasted image 20251114011153.png",
+    "navigationIntoThesefolder",
+    "typeScript",
+    "React",
     "SpringNotesNewOrganised",
-    "Untitled",
-    "sqlqueriesOFMYPROJECT",
-    "projectStructure",
-    "SpringResources",
-    "journaling",
-    "javaStreams",
-    "springSecurity",
-    "postgres",
-    "newFreshstart"
+    "sqlqueriesOFMYPROJECT"
   ]
 }

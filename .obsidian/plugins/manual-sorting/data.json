@@ -1,6 +1,13 @@
 {
   "customFileOrder": {
     "/": [
+      "nextjsFolderStructure",
+      "newFreshStart2",
+      "ProjectStructureWebtrak-ui",
+      "React2",
+      "navigationIntoThesefolder",
+      "typeScript",
+      "React",
       "Pasted image 20251103055115.png",
       "Pasted image 20251103055109.png",
       "Pasted image 20251103055103.png",
@@ -109,6 +116,10 @@
       "Welcome.md"
     ],
     "javaStreams": [
+      "javaStreams/funtionalinterfacevspredicateChaining.md",
+      "javaStreams/MethodReferenceSyntaxConvention.md",
+      "javaStreams/Pasted image 20251110092613.png",
+      "javaStreams/System.out.println story.md",
       "javaStreams/JavaStreamsselfentry.md",
       "javaStreams/Collectors.Tolist.md",
       "javaStreams/javastreamsBlogs.md",
@@ -129,7 +140,13 @@
       "journaling/1.md",
       "journaling/2.md"
     ],
+    "navigationIntoThesefolder": [
+      "navigationIntoThesefolder/1.md"
+    ],
     "newFreshstart": [
+      "newFreshstart/Untitled.md",
+      "newFreshstart/commandstomakeanewgithubbrannchandswitchtoit.md",
+      "newFreshstart/RequiredArgsConstructorVsAllArgsConstructor.md",
       "newFreshstart/learningsSummary.md",
       "newFreshstart/controller,service layer logic.md",
       "newFreshstart/howtopullcertainbranches.md",
@@ -160,17 +177,46 @@
       "newFreshstart/error resolving.md",
       "newFreshstart/goals.md",
       "newFreshstart/how to insert data from starting.md",
-      "newFreshstart/leaveFLow.md",
       "newFreshstart/multipart shortNotes.md",
       "newFreshstart/multiParts.md",
       "newFreshstart/SHORTnotesDevSpringboot.md",
       "newFreshstart/transactionAnnotationSpringBoot.md"
+    ],
+    "newFreshStart2": [
+      "newFreshStart2/springbo.md",
+      "newFreshStart2/1.md",
+      "newFreshStart2/1DatabaseManytoOneEntitiesShowing.md",
+      "newFreshStart2/Pasted image 20251114033416.png",
+      "newFreshStart2/2AssetMapperinService.md",
+      "newFreshStart2/Pasted image 20251114042356.png",
+      "newFreshStart2/3ZodSchema(pick,extend,refine).md",
+      "newFreshStart2/4ZodSchema2.md"
+    ],
+    "nextjsFolderStructure": [
+      "nextjsFolderStructure/1.md",
+      "nextjsFolderStructure/Pasted image 20251116125530.png",
+      "nextjsFolderStructure/Pasted image 20251116125600.png",
+      "nextjsFolderStructure/Pasted image 20251116125908.png"
     ],
     "postgres": [
       "postgres/1.md",
       "postgres/2.md"
     ],
     "projectStructure": [
+      "projectStructure/assetManagement.md",
+      "projectStructure/Pasted image 20251113125622.png",
+      "projectStructure/notificationSystemsSSE.md",
+      "projectStructure/Pasted image 20251113143954.png",
+      "projectStructure/Pasted image 20251114010941.png",
+      "projectStructure/Pasted image 20251114011153.png",
+      "projectStructure/Untitled.md",
+      "projectStructure/getuserProfile.md",
+      "projectStructure/1.md",
+      "projectStructure/testingCronjobsCorrectly.md",
+      "projectStructure/testingleavecronnotworking.md",
+      "projectStructure/promptgivento chat gpt.md",
+      "projectStructure/userOnboardingNetworking.md",
+      "projectStructure/Pasted image 20251105010659.png",
       "projectStructure/leaveRequestLossofPayShow.md",
       "projectStructure/onBoardingEndpoint.md",
       "projectStructure/entitysql.md",
@@ -184,12 +230,101 @@
       "projectStructure/Global Project Assignment.md",
       "projectStructure/creatingcomp_off.md"
     ],
+    "ProjectStructureWebtrak-ui": [
+      "ProjectStructureWebtrak-ui/1.md"
+    ],
+    "React": [
+      "React/Reactquery2.md",
+      "React/interfacesinReact.md",
+      "React/hooksgeneralReact.md",
+      "React/Pasted image 20251111160302.png",
+      "React/Pasted image 20251111161251.png",
+      "React/Pasted image 20251111161320.png",
+      "React/Pasted image 20251111161438.png",
+      "React/Pasted image 20251111161454.png",
+      "React/Pasted image 20251111162444.png",
+      "React/Pasted image 20251111171303.png",
+      "React/Pasted image 20251111171402.png",
+      "React/Pasted image 20251111171854.png",
+      "React/Pasted image 20251111172026.png",
+      "React/Pasted image 20251111172537.png",
+      "React/Pasted image 20251111172703.png",
+      "React/Pasted image 20251111172733.png",
+      "React/Pasted image 20251111172846.png",
+      "React/Pasted image 20251111172859.png",
+      "React/Pasted image 20251111173225.png",
+      "React/Pasted image 20251111173328.png",
+      "React/Pasted image 20251111173405.png",
+      "React/Pasted image 20251111173447.png",
+      "React/Pasted image 20251111173814.png",
+      "React/Pasted image 20251111173851.png",
+      "React/Pasted image 20251111173912.png",
+      "React/Pasted image 20251111174516.png",
+      "React/Pasted image 20251111180653.png",
+      "React/Pasted image 20251111180814.png",
+      "React/Pasted image 20251111182306.png",
+      "React/Pasted image 20251111184131.png",
+      "React/Pasted image 20251111184411.png",
+      "React/Pasted image 20251111184559.png",
+      "React/Pasted image 20251111184637.png",
+      "React/reactRedux.md",
+      "React/Pasted image 20251111223451.png",
+      "React/Pasted image 20251111223929.png",
+      "React/Pasted image 20251111224748.png",
+      "React/Pasted image 20251111224913.png",
+      "React/Pasted image 20251111225010.png",
+      "React/Pasted image 20251111225034.png",
+      "React/Pasted image 20251111225657.png",
+      "React/Pasted image 20251111233819.png",
+      "React/Pasted image 20251111233843.png",
+      "React/Pasted image 20251112015330.png",
+      "React/Pasted image 20251112015405.png",
+      "React/Pasted image 20251112015504.png",
+      "React/Pasted image 20251112015800.png",
+      "React/Pasted image 20251112021118.png",
+      "React/Pasted image 20251112021326.png",
+      "React/Pasted image 20251112023618.png",
+      "React/Pasted image 20251112023649.png",
+      "React/Pasted image 20251112023722.png",
+      "React/Pasted image 20251112023948.png",
+      "React/Pasted image 20251112025254.png",
+      "React/reactProject2.md",
+      "React/Pasted image 20251110143450.png",
+      "React/Pasted image 20251110143806.png",
+      "React/ReactuseContext Hook.md",
+      "React/explaininguseDynamicFieldArray.md",
+      "React/Reactconcepts.md",
+      "React/ReactConcepts1.md",
+      "React/Reactquery.md",
+      "React/Pasted image 20251107161353.png",
+      "React/Untitled 2.md",
+      "React/Pasted image 20251107191433.png",
+      "React/Pasted image 20251107191501.png",
+      "React/hobbiesPb.md",
+      "React/hobbieserror.md",
+      "React/1.md",
+      "React/Pasted image 20251105011143.png",
+      "React/Webtrak-Ui.md",
+      "React/Pasted image 20251105102555.png",
+      "React/Pasted image 20251105102923.png",
+      "React/userRequestschema.md",
+      "React/webtrackuizod.md"
+    ],
+    "React2": [
+      "React2/1.md",
+      "React2/2.md",
+      "React2/2 shortnotes.md"
+    ],
     "SpringNotesNewOrganised": [
       "SpringNotesNewOrganised/revisionGuideLine.md",
       "SpringNotesNewOrganised/1.md",
       "SpringNotesNewOrganised/1shortNotes.md"
     ],
     "SpringResources": [
+      "SpringResources/Pasted image 20251117114708.png",
+      "SpringResources/Pasted image 20251117114750.png",
+      "SpringResources/springbootcampWebknot.md",
+      "SpringResources/interviewchatgpt.md",
       "SpringResources/1.md"
     ],
     "springSecurity": [
@@ -202,6 +337,10 @@
     ],
     "sqlqueriesOFMYPROJECT": [
       "sqlqueriesOFMYPROJECT/allocations.md"
+    ],
+    "typeScript": [
+      "typeScript/topicsTOstudyinTypeScript.md",
+      "typeScript/shortNotes.md"
     ]
   },
   "draggingEnabled": true,
